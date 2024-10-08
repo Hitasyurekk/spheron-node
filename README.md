@@ -2,6 +2,8 @@
 
 *DePin gpu ionet benzeri bir sistem , hızlı bir drop alabiliriz.*
 
+*Kayıt olmanız gereken site : https://fizz.spheron.network/*
+
 *Ne kadar yüksek sistem o kadar iyi kazanç puan demek.*
 
 *Minumum 8gb ram 4 Gpu 160gb disk alarak kurabilirsiniz.*
