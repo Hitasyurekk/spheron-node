@@ -6,6 +6,9 @@
 
 *Minumum 8gb ram 4 Gpu 160gb disk alarak kurabilirsiniz.*
 
+![image](https://github.com/user-attachments/assets/e965545f-cd74-4f74-ab78-c425cb260c23)
+
+
 Kodlar
 
 ```
@@ -51,8 +54,18 @@ docker --version
 
 Devamı 
 
+
+```
 chmod +x /root/fizzup.sh
 
 ./fizzup.sh
+```
 
+
+Log kontrol için
+
+```
 docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
+
+```
+
