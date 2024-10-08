@@ -48,3 +48,11 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Docker sürümünü kontrol et
 docker --version
 ```
+
+Devamı 
+
+chmod +x /root/fizzup.sh
+
+./fizzup.sh
+
+docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
